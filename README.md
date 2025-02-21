@@ -1,8 +1,30 @@
-# React + Vite
+# 🎯 Quiz Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React.js & Tailwind CSS** quiz platform where users can attempt quizzes, get instant feedback, track progress, and store quiz history using **IndexedDB**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+✅ **Multiple Choice & Integer-Type Questions** - Users can either select answers or enter numerical values.  
+✅ **Timer-Based Questions** - Each question has a **30-second** countdown.  
+✅ **Instant Feedback** - Users get immediate correct/wrong answer feedback.  
+✅ **Multiple Attempts** - Users can retry the quiz as many times as they want.  
+✅ **Progress Tracking** - Stores quiz attempt history locally in **IndexedDB**.  
+✅ **Responsive UI** - Built with **React.js** & **Tailwind CSS** for a modern design.  
+
+---
+
+## 🛠️ Installation & Setup  
+
+### **1️⃣ Clone the Repository**
+
+git clone https://github.com/Lokesh2805/quiz-platform.git
+cd quiz-platform
+
+### **2️⃣ Install Dependencies**
+npm install
+
+### **3️⃣ Start the Development Server**
+npm run dev
+
