@@ -22,6 +22,9 @@ A **React.js & Tailwind CSS** quiz platform where users can attempt quizzes, get
 git clone https://github.com/Lokesh2805/quiz-platform.git
 cd quiz-platform
 
+---
+## Deployed Link  
+https://lets-quizly.netlify.app/
 ### **2️⃣ Install Dependencies**
 npm install
 
